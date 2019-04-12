@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fragmentation of 8 Icelandic Cod Samples
-subtitle: blah
+subtitle: Covaris Fragmentation to 150 bp
 gh-repo: SaraSchaal/AtlanticCodOpenNotebook
 gh-badge: [star, fork, follow]
 tags: [Fragmentation]
