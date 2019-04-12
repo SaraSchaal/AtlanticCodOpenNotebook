@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Extraction Ice Cod Plate 1 Half 1
-subtitle: blah
+title: Extraction Ice Cod Plate 1 - Half 1
+subtitle: Spin Column Plate Extraction
 gh-repo: SaraSchaal/AtlanticCodOpenNotebook
 gh-badge: [star, fork, follow]
 tags: [DNA_Extraction]
