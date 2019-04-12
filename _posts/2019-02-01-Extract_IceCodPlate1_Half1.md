@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Extraction Ice Cod Plate 1 - Half 1
-subtitle: Spin Column Plate Extraction
+subtitle: Omega BioTek Spin Column Plate Extraction
 gh-repo: SaraSchaal/AtlanticCodOpenNotebook
 gh-badge: [star, fork, follow]
 tags: [DNA_Extraction]
