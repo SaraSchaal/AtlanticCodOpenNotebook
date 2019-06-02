@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Extraction Ice Cod Plate 1 Half 1
-subtitle: blah
+title: Extraction Ice Cod 
+subtitle: Plate 1 Half 1
 gh-repo: SaraSchaal/AtlanticCodOpenNotebook
 gh-badge: [star, fork, follow]
 tags: [DNA_Extraction]
 ---
 
-**Extraction of Icelandic Cod Tissues **
+**Extraction of Icelandic Cod Tissues**
 
 Collected in October & November 2019 and stored in OGL Fix
 Extracted using Omega BioTek E-Z 96 Tissue DNA Kit in Hugbro Lab
