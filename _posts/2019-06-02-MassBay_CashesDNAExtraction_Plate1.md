@@ -9,7 +9,7 @@ tags: [DNA_Extraction]
 
 **Extraction of Mass Bay and Cashes Ledge Tissues **
 
-Collected in Summer/Fall of 2016, 2017 & 2018 and stored in 95% Ethanol in -20C Freezer /n
+Collected in Summer/Fall of 2016, 2017 & 2018 and stored in 95% Ethanol in -20C Freezer . 
 Extracted using Omega BioTek E-Z 96 Tissue DNA Kit in Hugbro Lab
 Tissues digested for 36 hours at 60C - New kits have different lysis plates and silicone lids. Condensation formed inbetween the wells.
 Eluted in 150 uL of Molecular Grade H2O 
