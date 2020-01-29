@@ -4,7 +4,7 @@ title: Demultiplexing
 subtitle: with Stacks and the dDocent Pipeline
 gh-repo: SaraSchaal/AtlanticCodOpenNotebook
 gh-badge: [star, fork, follow]
-tags: [Bioinformatics Pipeline]
+tags: [Bioinformatics_Pipeline]
 ---
 
 **Demultiplexing with Stacks**
